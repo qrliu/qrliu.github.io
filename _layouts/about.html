@@ -1,13 +1,26 @@
 ---
 layout: default
 ---
+<P align="right">路漫漫其修远兮，吾将上下而求索。  —— 屈原 《离骚》<br>The journey is long; I shall explore up and down.   —— Qu Yuan; <i>Li Sao </i>
+<br>
+<br>
 
 <div class="post">
 
   <header class="post-header">
-    {% assign name = site.title | split: ' ' %}
-    <h1 class="post-title"><span class="font-weight-bold">{{ name | first }}</span> {{ name | last }}</h1>
-    <p class="post-description">{{ page.description }}</p>
+   <!-- {% assign name = site.title | split: ' ' %}
+    {% assign firstname = name | first %}
+    {% if name.size > 2 %}
+       {% assign middlenames =  name | slice:1, name.size-5 | join:" " %}
+    {% else %}
+       {% assign middlenames = '' %}
+    {% endif %}
+    {% assign lastname = name | last %}
+    <a class="navbar-brand title" href="{{ site.baseurl | prepend: site.url }}/">
+     <span class="font-weight-bolder">{{ firstname }}{{ middlenames }}  {{ lastname }}</span>
+    </a>
+   -->
+  <h2>about me </h2>
   </header>
 
   <article>
