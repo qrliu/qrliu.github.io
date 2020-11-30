@@ -10,7 +10,7 @@ nav: true
 <br>
 <br>
 
-The main topic of my reasearch is to use the neutrino, a tiny fundamental particle, to understand how the Universe works. I am particularly intrigued by astrophysical neutrinos, as they are a window to the exciting frontier of astrophysics, particle physics and cosmology. I am interested in investigating what we see in experiments, what we can see in experiments and how we can use theory to explain what we see. 
+The main topic of my reasearch is to use the neutrino, a tiny fundamental particle, to understand how the Universe works. I am particularly intrigued by astrophysical neutrinos, as they are a window to the exciting frontier of astrophysics, particle physics and cosmology. I am interested in investigating what we see in experiments, what we can potentially see in experiments and how we can use theory to explain what we see. 
 <br>    
 <br>
 
@@ -76,7 +76,7 @@ In the upcoming years, IceCube will be upgraded in several steps. Installation o
   <font size="4"><b>Probe Particle Physics-</b></font>
 Apart from their astronomy aspects, high-energy neutrinos also represent a natural beam for testing the Standard Model and searching for new physics beyond the Standard Model. 
 <br>
-For example, search for the dark matter. The nature of dakr matter remains a mystery but various astrophysical and cosmological observations have showed the evidence of the existance of dark matter. We can identify dark matter indirectly by detecting neutrinos produced by annihilation or decay of dark matter gravitationally concentrated in the halo of galaxies and trapped in heavy celestial objects like the Sun and the Earth. 
+For example, search for dark matter. The nature of dark matter remains a mystery but various astrophysical and cosmological observations have showed the evidence of the existence of dark matter. We can identify dark matter indirectly by detecting neutrinos produced by annihilation or decay of dark matter gravitationally concentrated in the halo of galaxies and trapped in heavy celestial objects like the Sun and the Earth. 
 (I have been developing a tool, <a href="https://github.com/IceCubeOpenSource/charon" >χarον</a>, which computes neutrino fluxes from dark matter annihilation and decay. This tool is public and I will keep implementing new theoretical ideas to it.) There are a variety of interesting and exciting new physics topics to be tested. The nice figure made by my colleagues on the right provides a good summary.       
   </div>
   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
