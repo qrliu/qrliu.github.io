@@ -16,7 +16,7 @@ Hi! My name is Qinrui Liu and written as 刘沁枘 in Chinese. Qinrui can approx
 
 I am currently a PhD student in physics at [University of Wisconsin-Madison](http://www.physics.wisc.edu). I work at [WIPAC](https://wipac.wisc.edu) under the supervision of Prof. [Francis Halzen](https://wipac.wisc.edu/people/faculty/francis-halzen). My work focuses on astroparticle physics, the intersection of particle physics, astrophysics and cosmology. I am a member of the [IceCube collaboration](https://icecube.wisc.edu), working on phenomenology and data analysis.   
 
-I come from Meishan, Sichuan, a small city in Southwest China and did my undergraduate study at beautiful [Wuhan University](https://en.whu.edu.cn).
+I come from Meishan, a small city near Chengdu in Sichuan Province in Southwest China and did my undergraduate study at beautiful [Wuhan University](https://en.whu.edu.cn).
 
 
 <!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
