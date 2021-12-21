@@ -8,4 +8,8 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'jekyll-sitemap'
+    gem 'kramdown-parser-gfm'
+
 end
+
+gem "webrick", "~> 1.7"
