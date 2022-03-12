@@ -14,7 +14,7 @@ social: true
 
 Hi! Welcome to my site! My name is Qinrui Liu and written as 刘沁枘 in Chinese. Qinrui can approximately be pronounced as Chin-ray following the English rule. 
 
-I am currently a postdoc at the [Arther B McDonald Institute](https://mcdonaldinstitute.ca) based at [Queen's University](https://www.queensu.ca/physics/home) as a member of the astroparticle theory group. I did my PhD at [University of Wisconsin-Madison](http://www.physics.wisc.edu). I worked at [WIPAC](https://wipac.wisc.edu) under the supervision of Prof. [Francis Halzen](https://wipac.wisc.edu/people/faculty/francis-halzen). My work focuses on astroparticle physics, the intersection of particle physics, astrophysics and cosmology. I am a member of the [IceCube collaboration](https://icecube.wisc.edu), working on phenomenology and data analysis.   
+I am currently a postdoc at the [Arther B. McDonald Institute](https://mcdonaldinstitute.ca) based at [Queen's University](https://www.queensu.ca/physics/home) as a member of the astroparticle theory group. I did my PhD at [University of Wisconsin-Madison](http://www.physics.wisc.edu). I worked at [WIPAC](https://wipac.wisc.edu) under the supervision of Prof. [Francis Halzen](https://wipac.wisc.edu/people/faculty/francis-halzen). My work focuses on astroparticle physics, the intersection of particle physics, astrophysics and cosmology. I am a member of the [IceCube collaboration](https://icecube.wisc.edu), working on phenomenology and data analysis.   
 
 I come from Meishan, a small city near Chengdu in Sichuan Province in Southwest China and did my undergraduate study at beautiful [Wuhan University](https://en.whu.edu.cn).
 
